@@ -1,2 +1,1 @@
-# nextjs-example
-# nextjs-learn
+# Next.js Learn Project
